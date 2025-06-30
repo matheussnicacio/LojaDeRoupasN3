@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LojaDeRoupasN3/1.0.0": {
+        "runtime": {
+          "LojaDeRoupasN3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LojaDeRoupasN3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

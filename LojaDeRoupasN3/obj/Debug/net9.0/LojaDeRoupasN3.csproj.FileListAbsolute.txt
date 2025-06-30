@@ -1,0 +1,14 @@
+C:\Users\pmath\RiderProjects\LojaDeRoupasN3\LojaDeRoupasN3\bin\Debug\net9.0\LojaDeRoupasN3.exe
+C:\Users\pmath\RiderProjects\LojaDeRoupasN3\LojaDeRoupasN3\bin\Debug\net9.0\LojaDeRoupasN3.deps.json
+C:\Users\pmath\RiderProjects\LojaDeRoupasN3\LojaDeRoupasN3\bin\Debug\net9.0\LojaDeRoupasN3.runtimeconfig.json
+C:\Users\pmath\RiderProjects\LojaDeRoupasN3\LojaDeRoupasN3\bin\Debug\net9.0\LojaDeRoupasN3.dll
+C:\Users\pmath\RiderProjects\LojaDeRoupasN3\LojaDeRoupasN3\bin\Debug\net9.0\LojaDeRoupasN3.pdb
+C:\Users\pmath\RiderProjects\LojaDeRoupasN3\LojaDeRoupasN3\obj\Debug\net9.0\LojaDeRoupasN3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmath\RiderProjects\LojaDeRoupasN3\LojaDeRoupasN3\obj\Debug\net9.0\LojaDeRoupasN3.AssemblyInfoInputs.cache
+C:\Users\pmath\RiderProjects\LojaDeRoupasN3\LojaDeRoupasN3\obj\Debug\net9.0\LojaDeRoupasN3.AssemblyInfo.cs
+C:\Users\pmath\RiderProjects\LojaDeRoupasN3\LojaDeRoupasN3\obj\Debug\net9.0\LojaDeRoupasN3.csproj.CoreCompileInputs.cache
+C:\Users\pmath\RiderProjects\LojaDeRoupasN3\LojaDeRoupasN3\obj\Debug\net9.0\LojaDeRoupasN3.dll
+C:\Users\pmath\RiderProjects\LojaDeRoupasN3\LojaDeRoupasN3\obj\Debug\net9.0\refint\LojaDeRoupasN3.dll
+C:\Users\pmath\RiderProjects\LojaDeRoupasN3\LojaDeRoupasN3\obj\Debug\net9.0\LojaDeRoupasN3.pdb
+C:\Users\pmath\RiderProjects\LojaDeRoupasN3\LojaDeRoupasN3\obj\Debug\net9.0\LojaDeRoupasN3.genruntimeconfig.cache
+C:\Users\pmath\RiderProjects\LojaDeRoupasN3\LojaDeRoupasN3\obj\Debug\net9.0\ref\LojaDeRoupasN3.dll
