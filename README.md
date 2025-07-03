@@ -34,16 +34,14 @@ O sistema permite o controle de roupas considerando seus **tipos**, **tamanhos**
 
 - **Linguagem**: C#
 - **Paradigma**: Programação Orientada a Objetos
-- **IDE Recomendada**: Visual Studio ou Rider da Jetbrains
+- **IDE Recomendada**: VS Code, Visual Studio Community ou Rider da Jetbrains
 ---
 
 ## 📂 Organização do Projeto
 
 ```plaintext
-/ProjetoEstoqueRoupas
+/LojaDeRoupasN3
 │
 ├── Models/          # Classes que representam as entidades (Roupas, Tamanho, Cor, etc)
 ├── Services/        # Regras de negócio e manipulação de dados
-├── Data/            # Simulação ou conexão com banco de dados
-├── Program.cs       # Ponto de entrada do programa
-└── README.md        # Este arquivo
+└──  Program.cs      # Ponto de entrada do programa
