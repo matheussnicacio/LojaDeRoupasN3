@@ -34,9 +34,7 @@ O sistema permite o controle de roupas considerando seus **tipos**, **tamanhos**
 
 - **Linguagem**: C#
 - **Paradigma**: Programação Orientada a Objetos
-- **IDE Recomendada**: Visual Studio
-- **Banco de Dados**: (Você pode adicionar aqui se usou algum, como SQL Server, SQLite, ou um mock)
-
+- **IDE Recomendada**: Visual Studio ou Rider da Jetbrains
 ---
 
 ## 📂 Organização do Projeto
